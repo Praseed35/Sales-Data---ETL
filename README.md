@@ -13,39 +13,7 @@ A robust ETL pipeline that processes sales transactions into an analytical data 
 - **Idempotent Operations**: Safe for repeated executions
 - **Data Quality Checks**: Unit price validation, negative quantity prevention
 
-## 🏗️ Database Schema
-```mermaid
-erDiagram
-    dim_customers ||--o{ fact_sales : "places"
-    dim_products ||--o{ fact_sales : "contains"
-    
-    dim_customers {
-        int customer_key PK
-        int customer_id
-        string first_name
-        string last_name
-        string email
-        string region
-    }
-    
-    dim_products {
-        int product_key PK
-        int product_id
-        string product_name
-        string category
-        float unit_price
-    }
-    
-    fact_sales {
-        int sale_key PK
-        int order_id
-        int customer_key FK
-        int product_key FK
-        int quantity
-        float unit_price
-        float total_amount
-        date order_date
-    }
+
 
 ## 🚀 Quick Start
 
