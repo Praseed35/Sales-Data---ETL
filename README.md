@@ -15,7 +15,6 @@ A robust ETL pipeline that processes sales transactions into an analytical data 
 
 ## 🏗️ Database Schema
 ```mermaid
-%%{init: {'theme': 'neutral', 'themeVariables': { 'primaryColor': '#d4e6ff', 'primaryBorderColor': '#0066cc'}}}%%
 erDiagram
     dim_customers ||--o{ fact_sales : "places"
     dim_products ||--o{ fact_sales : "contains"
@@ -23,18 +22,18 @@ erDiagram
     dim_customers {
         int customer_key PK
         int customer_id
-        varchar(100) first_name
-        varchar(100) last_name
-        varchar(255) email
-        varchar(100) region
+        string first_name
+        string last_name
+        string email
+        string region
     }
     
     dim_products {
         int product_key PK
         int product_id
-        varchar(255) product_name
-        varchar(100) category
-        decimal(10,2) unit_price
+        string product_name
+        string category
+        float unit_price
     }
     
     fact_sales {
@@ -43,8 +42,8 @@ erDiagram
         int customer_key FK
         int product_key FK
         int quantity
-        decimal(10,2) unit_price
-        decimal(10,2) total_amount
+        float unit_price
+        float total_amount
         date order_date
     }
 
