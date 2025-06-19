@@ -1,0 +1,151 @@
+product_id,product_name,category,unit_price
+1,Chocolate Chip Cliff Bars,Food - Snacks,2.49
+2,Italian Sausage and Peppers,Food - Meat,8.99
+3,Apple Cinnamon Granola,Food - Breakfast,4.49
+4,Premium Flashlight,Outdoor,19.99
+5,Vegetable Quinoa Bowl,Food - Frozen Meals,5.99
+6,Pet Food Storage Container,Pets,24.99
+7,Adjustable Resistance Bands,Fitness,39.99
+8,Fruit Infuser Water Bottle,Fitness,15.99
+9,Pine Nuts,Food - Nuts,7.99
+10,Tahini,Food - Condiments,5.49
+11,Rechargeable Electric Toothbrush,Health,49.99
+12,Chickpea Snack Mix,Food - Snacks,3.49
+13,Brown Rice,Food - Grains,1.79
+14,Graphic Tee,Clothing,19.99
+15,LED Desk Lamp with USB Charging Port,Office,29.99
+16,Cordless Water Flosser,Health,49.99
+17,Pumpkin Ice Cream,Food - Frozen Foods,4.99
+18,Smashed Avocado with Lime,Food - Condiments,2.49
+19,Knitted Infinity Scarf,Clothing - Accessories,29.99
+20,Oats,Food - Grains,3.29
+21,Spicy Roasted Nuts,Food - Snacks,4.99
+22,Kale Chips,Food - Snacks,3.99
+23,Wireless Earbuds,Audio,69.99
+24,Pasta Sauce Mix,Food - Sauces,1.29
+25,Magnetic Phone Car Mount,Automotive,14.99
+26,Wireless Charging Pad,Accessories,19.99
+27,Vegan chocolate chip cookies,Food - Bakery,4.79
+28,Insulated Sport Tumbler,Fitness,22.99
+29,Sooji (Semolina),Food - Baking,1.99
+30,Smart Plant Monitor,Garden,24.99
+31,Paprika,Food - Spices,1.79
+32,Graphic Hoodie,Clothing - Outerwear,49.99
+33,Multifunctional Baby Bottle Warmer,Baby,39.99
+34,Pet Travel Bowl,Pets,10.99
+35,Infrared Space Heater,Home Appliances,99.99
+36,Beef Taco Skillet,Food - Meal Kits,8.49
+37,Whole Wheat Pita Bread,Food - Bread,2.79
+38,Tomato Paste,Food - Canned Goods,1.29
+39,Hiking Boots,Footwear,79.99
+40,Classic Bagels,Food - Bakery,2.99
+41,Frozen Mixed Vegetables,Food - Frozen,1.99
+42,Lemon Garlic Marinade,Food - Condiments,4.29
+43,Camping Tent,Outdoor,79.99
+44,Almond Joy Bars,Food - Confectionery,1.29
+45,Granola Cereal,Food - Breakfast,4.49
+46,Tennis Racket,Fitness,89.99
+47,Whisk Set,Kitchen,12.99
+48,Teriyaki Chicken Wings,Food - Frozen Food,10.99
+49,Folding Backpack Chair,Outdoor,49.99
+50,Green Smoothie Mix,Food - Beverages,5.99
+51,Leather Crossbody Bag,Clothing - Bags,89.99
+52,High-Top Leather Boots,Clothing - Footwear,99.99
+53,Peach Mango Smoothie,Food - Beverages,3.49
+54,Portable Hand Warmer,Accessories,24.99
+55,Organic Coconut Yogurt,Food - Dairy,4.49
+56,French Onion Dip,Food - Condiments,2.99
+57,Lemon Zest Olive Oil,Food - Oils & Vinegars,8.99
+58,Ergonomic Gaming Chair,Gaming,199.99
+59,Cinnamon Sugar Mix,Food - Baking,1.49
+60,Organic Tomato Ketchup,Food - Condiments,3.49
+61,Laptop Backpack,Accessories,69.99
+62,Vegetable Sushi Rolls,Food - Prepared Meals,5.99
+63,Yoga Wheel,Fitness,34.99
+64,Honey Almond Granola Bars,Food - Snacks,3.99
+65,Bird Feeder,Outdoor,24.99
+66,Green Smoothie Mix,Food - Beverages,5.99
+67,Handheld Shower Head,Bathroom,34.99
+68,Mediterranean Couscous,Food - Grains,3.59
+69,Herbal Tea Set,Food,19.99
+70,Mechanical Keyboard,Computers,99.99
+71,Stainless Steel Straws,Kitchen,12.99
+72,Self-Cleaning Cat Litter Box,Pets,199.99
+73,Dish Rack,Kitchen,24.99
+74,Cinnamon Roll Kit,Food - Baking,6.89
+75,Pesto Pasta Salad,Food - Prepared Foods,4.99
+76,Hibiscus Herbal Tea,Food - Beverages,3.29
+77,Classic Pumps,Clothing - Footwear,64.99
+78,Oven-Baked Chicken Tenders,Food - Meat,6.99
+79,Screen Cleaning Kit,Electronics,15.99
+80,Vegetable Lentil Soup,Food - Canned Goods,3.49
+81,Digital Voice Recorder,Electronics,49.99
+82,Pumpkin Spice Creamer,Food - Beverages,3.79
+83,Zucchini,Food - Produce,0.79
+84,LED Flashing Pet Collar,Pets,14.99
+85,Pistachio Ice Cream,Food - Frozen Desserts,4.99
+86,Multi-Purpose Marine Rope,Outdoor,19.99
+87,Set of Measuring Spoons,Kitchen,12.99
+88,LED Camping Lantern with USB Charging,Outdoor,34.99
+89,Picnic Blanket,Outdoor,29.99
+90,Magnetic Screen Door,Outdoor,24.99
+91,Non-Stick Grill Mat,Outdoor,19.99
+92,Sweet Potato Mash,Food - Frozen Foods,3.99
+93,Fleece Throw Blanket,Home,29.99
+94,Gardening Tools Set,Garden,45
+95,Smoked Paprika Chicken Thighs,Food - Meat,6.99
+96,Pet Travel Bed,Pets,26.99
+97,Electronic Drum Kit,Music,359.99
+98,Plant-Based Cookbook,Books,29.99
+99,Cilantro Lime Rice,Food - Grains,2.99
+100,Mushrooms,Food - Produce,2.99
+101,Coconut Oil Spray,Food - Cooking Oils,4.99
+102,Vegetable Lasagna,Food - Frozen Foods,6.99
+103,Sliced Turkey Breast,Food - Deli Meats,5.49
+104,Mini Cordless Vacuum Cleaner,Home Appliances,45.99
+105,Underwater Camera,Photography,199.99
+106,Vegetable Fried Rice,Food - Frozen Foods,4.99
+107,Paint By Numbers Kit,Art Supplies,24.99
+108,Vegetable Spring Rolls,Food - Frozen Foods,6.49
+109,Beef Taco Skillet,Food - Meal Kits,8.49
+110,Bamboo Utensil Set,Kitchen,14.99
+111,Organic Apples,Food - Produce,1.89
+112,Fleece Lined Leggings,Clothing,29.99
+113,Almond Flour Brownies,Food - Baking,5.99
+114,Mango Sticky Rice Dessert,Food - Frozen Desserts,4.5
+115,Bamboo Toothbrush,Health,5.99
+116,Smoked Paprika,Food - Spices,2.99
+117,Pesto Genovese,Food - Condiments,6.49
+118,Reversible Swimming Pool Lounger,Outdoor,34.99
+119,Personal Blender,Kitchen,39.99
+120,Granulated Sugar,Food - Baking,2.49
+121,LED Table Lamp,Home,29.99
+122,Portable Hand Warmer,Accessories,24.99
+123,Multi-Purpose Scissors,Office,8.99
+124,Graphic Hoodie,Clothing - Outerwear,49.99
+125,Cat Tree,Pets,99.99
+126,Camping Chair,Outdoor,29.99
+127,Mediterranean Chickpea Bowl,Food - Prepared Foods,6.49
+128,Watercolor Brush Pens,Art Supplies,19.99
+129,Vanilla Ice Cream,Food - Frozen Foods,4.99
+130,Cotton Tote Bag Set,Accessories,29.99
+131,Organic Black Beans,Food - Canned Goods,1.29
+132,Electric Food Slicer,Kitchen,99.99
+133,LED Table Lamp,Home,29.99
+134,Backpacking Tent,Outdoor,109.99
+135,Outdoor Portable Fire Pit,Outdoor,149.99
+136,Frozen Edamame,Food - Frozen Foods,3.29
+137,Frozen Fruit Medley,Food - Frozen Foods,5.99
+138,Coconut Oil,Food - Oils & Vinegars,6.49
+139,Peach Green Tea,Food - Beverages,3.49
+140,Black Bean Spaghetti,Food - Pasta,3.99
+141,Banana Nut Muffins,Food - Bakery,4.49
+142,Honey mustard chicken tenders,Food - Meat,7.99
+143,LED Strip Lights,Home,19.99
+144,Vegetable Pizza Rolls,Food - Frozen Foods,6.49
+145,Pasta Primavera Kit,Food - Meal Kits,7.49
+146,Brown Rice,Food - Grains,1.79
+147,Frozen Salmon Filets,Food - Seafood,12.99
+148,Bamboo Cotton Tank Top,Clothing - Tops,22.99
+149,Handheld Shower Head,Bathroom,34.99
+150,Hair Dryer,Beauty,39.99
